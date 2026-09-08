@@ -10,10 +10,10 @@ answer=(1/2*base*height)
 print(f"the area of  triangle={answer}")"""
 
 #Area of circle=3.14*radius*radius
-"""r=int(input("Enter the radious:"))
+r=int(input("Enter the radious:"))
 PI=3.14
 result=PI*r*r
-print(f"The radious of circle is:{result}")"""
+print(f"The radious of circle is:{result}")
 
 
 #Volume of sphere=4/3*3.14*radius*radius*radius
