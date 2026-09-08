@@ -1,6 +1,6 @@
-#a=int(input("Enter the  side:"))
-#result=a*a
-#print(f"the area of  square is={a*a}")
+a=int(input("Enter the  side:"))
+result=a*a
+print(f"the area of  square is={a*a}")
 
 
 #Area of triangle=1/2*base*height
